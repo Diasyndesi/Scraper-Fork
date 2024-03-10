@@ -1,3 +1,5 @@
+<h1 align="center" id="title">⚠️This is a forked repository⚠️</h1><br>
+This Repository has been forked from <a href="https://github.com/z0m31en7/Uscrapper/">z0m31en7/Uscrapper</a> and has not been modified. All of the work in this repository is not ours, if you want you can contribute to their own repository.
 <h1 align="center" id="title">Uscrapper Vanta</h1><br>
 
 <p align="center"><img src="https://socialify.git.ci/z0m31en7/Uscrapper/image?font=Source%20Code%20Pro&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;theme=Dark" alt="project-image"></p><br>
